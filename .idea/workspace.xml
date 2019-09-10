@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../integrations/repos/jenkinsci-xlrelease-plugin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../integrations/repos/xld-kubernetes-plugin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../integrations/repos/xld-openshift-plugin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../integrations/repos/xli-plugins-java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../integrations/repos/xlr-openshift-plugin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../integrations/repos/xlrelease-plugin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../asciidoctor-gradle-examples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../yes/yes-genie-platform" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="140" />
+    <option name="y" value="-4" />
+    <option name="width" value="1296" />
+    <option name="height" value="772" />
+  </component>
+</project>
